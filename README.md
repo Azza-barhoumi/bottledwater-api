@@ -1,7 +1,7 @@
-# BottledWater API - Project Report
+# BottledWater API 
 
 **Project Name:** BottledWater API  
-**Date:** December 4, 2025  
+
 **Type:** Full-Stack Web Application (Flask + React)
 
 ---
